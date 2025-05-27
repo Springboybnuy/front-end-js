@@ -1,0 +1,26 @@
+
+body {
+    background-color: rgb(247, 69, 247);
+    margin: 0;
+}
+
+li,h1,h2,p{
+  margin: 5px;
+}
+
+.head{
+    box-sizing: 0;
+  display: block;
+  width: 100%;
+  height: auto;
+  padding: 0;
+    
+}
+
+.sin-espacio {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 0;
+}
